@@ -1,0 +1,10 @@
+ShoppingList Item: apples 
+ShoppingList Item: pears 
+ShoppingList Item: royal jelly 
+ShoppingList Item: bread 
+ShoppingList Item: milk 
+ShoppingList Item: tofu 
+ShoppingList Item: beans 
+ShoppingList Item: flan 
+ShoppingList Item: pork 
+ShoppingList Item: tamarind 
